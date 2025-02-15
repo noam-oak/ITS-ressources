@@ -5,21 +5,23 @@ Bienvenue sur ce dépôt GitHub ! 🎓 Ce repo a été créé pour regrouper et 
 ## 📖 Contenu du dépôt
 Ce dépôt est organisé par année et par matière pour faciliter l'accès aux ressources :
 
-### 🏆 **Première année - L3**
+### 🏆 **Première année - ITS1 [L3]**
 - 🔹 **Mathématiques** 
 - 🔹 **Programmation** 
-- 🔹 **Systèmes et Réseaux** 
+- 🔹 **Systèmes et Réseaux**
+- 🔹 **Stage de 4 semaines** [FISE] 
 
-### 🚀 **Deuxième année - M1**
+### 🚀 **Deuxième année - ITS2 [M1]**
 - 🔹 **Bases de données**
 - 🔹 **Systèmes et Réseaux** 
 - 🔹 **Gestion de projet** 
 - 🔹 **Développement Mobile** 
 - 🔹 **Développement Web**
-
-### 🎯 **Troisième année - M2**
+- 🔹 **Stage de 16 semaines** [FISE]
+- 
+### 🎯 **Troisième année - ITS3 [M2]**
 - 🔹 **...** : ...
-
+- 🔹 **Stage de xx semaines** [FISE] 
 
 ## 🛠️ Comment contribuer ?
 Nous encourageons tous les étudiants et anciens étudiants à contribuer en partageant leurs ressources ! Voici comment procéder :
