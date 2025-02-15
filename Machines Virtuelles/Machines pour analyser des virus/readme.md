@@ -1,3 +1,4 @@
+** Créer une machine virtuelle (VM) indétectable pour l'analyse de malwares
 🔍 Pourquoi rendre la VM indétectable ?
 Certains malwares sont conçus pour détecter s'ils tournent dans une VM et, si c'est le cas, ils changent de comportement ou s'arrêtent complètement pour éviter l'analyse. Cela complique le travail des chercheurs en cybersécurité et des analystes de malwares.
 
