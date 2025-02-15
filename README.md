@@ -58,13 +58,20 @@ Ce dépôt est organisé par année et par matière pour faciliter l'accès aux 
 - 🔹 **311 - Stratégies d’entreprise**  
 - 🔹 **Stage de 16 semaines** [FISE]
 ### 📚 **Semestre 4**  
+- 🔹 **...** : ...
+- 🔹 **...** : ...
 
 ### 🎯 **Troisième année - ITS3 [M2]**
 ### 📚 **Semestre 5**  
 - 🔹 **...** : ...
-- 🔹 **Stage de xx semaines** [FISE] 
+- - 🔹 **...** : ...
+- 🔹 **Stage de xx semaines** [FISE]
+   
 ### 📚 **Semestre 6**  
 - 🔹 **...** : ...
+- 🔹 **...** : ...
+
+
 ## 🛠️ Comment contribuer ?
 Nous encourageons tous les étudiants et anciens étudiants à contribuer en partageant leurs ressources ! Voici comment procéder :
 
