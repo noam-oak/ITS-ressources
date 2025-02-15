@@ -6,10 +6,9 @@ Bienvenue sur ce dépôt GitHub ! 🎓 Ce repo a été créé pour regrouper et 
 Ce dépôt est organisé par année et par matière pour faciliter l'accès aux ressources :
 
 ### 🏆 **Première année - L3**
-- 🔹 **Mathématiques** : ...
-- 🔹 **Programmation** : ...
+- 🔹 **Mathématiques** 
+- 🔹 **Programmation** 
 - 🔹 **Systèmes et Réseaux** 
-- 🔹 **...** : ...
 
 ### 🚀 **Deuxième année - M1**
 - 🔹 **Bases de données**
@@ -17,7 +16,6 @@ Ce dépôt est organisé par année et par matière pour faciliter l'accès aux 
 - 🔹 **Gestion de projet** 
 - 🔹 **Développement Mobile** 
 - 🔹 **Développement Web**
-- 🔹 **...** : ...
 
 ### 🎯 **Troisième année - M2**
 - 🔹 **...** : ...
