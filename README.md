@@ -6,22 +6,22 @@ Bienvenue sur ce dépôt GitHub ! 🎓 Ce repo a été créé pour regrouper et 
 Ce dépôt est organisé par année et par matière pour faciliter l'accès aux ressources :
 
 ### 🏆 **Première année - ITS1**
-🔹 153 - Les entreprises dans leur écosystème
-🔹 152 - Dynamique de groupe et communication
-🔹 151 - Anglais Communication at work & Presenting scientific contents
-🔹 144 - Méthodes de représentation pour le contrôle & commande
-🔹 143 - Métrologie, capteurs et signaux physiologiques
-🔹 142 - Introduction aux réseaux hospitaliers (architectures)
-🔹 141 - Initiation réseau (protocoles et services)
-🔹 132 - Histoire des sciences et de l'industrie
-🔹 131 - Le monde de la santé et sa sémantique
-🔹 122 - Introduction à la programmation
-🔹 121 - Physique numérique
-🔹 115 - Initiation aux systèmes Linux & shell
-🔹 114 - Algorithmique
-🔹 113 - Modélisation pour la conception (UML)
-🔹 112 - Physique et Applications
-🔹 111 - Mathématiques appliquées
+- 🔹 **153 - Les entreprises dans leur écosystème**  
+- 🔹 **152 - Dynamique de groupe et communication**  
+- 🔹 **151 - Anglais Communication at work & Presenting scientific contents**  
+- 🔹 **144 - Méthodes de représentation pour le contrôle & commande**  
+- 🔹 **143 - Métrologie, capteurs et signaux physiologiques**  
+- 🔹 **142 - Introduction aux réseaux hospitaliers (architectures)**  
+- 🔹 **141 - Initiation réseau (protocoles et services)**  
+- 🔹 **132 - Histoire des sciences et de l'industrie**  
+- 🔹 **131 - Le monde de la santé et sa sémantique**  
+- 🔹 **122 - Introduction à la programmation**  
+- 🔹 **121 - Physique numérique**  
+- 🔹 **115 - Initiation aux systèmes Linux & shell**  
+- 🔹 **114 - Algorithmique**  
+- 🔹 **113 - Modélisation pour la conception (UML)**  
+- 🔹 **112 - Physique et Applications**  
+- 🔹 **111 - Mathématiques appliquées**  
 
 - 🔹 **243 - Conduite et Optimisation**  
 - 🔹 **242 - Le risque sociétal dans le métier de l’ingénieur**  
