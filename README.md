@@ -38,7 +38,7 @@ Ce dépôt est organisé par année et par matière pour faciliter l'accès aux 
 - 🔹 **221 - Approche biosociologique du monde de la santé**  
 - 🔹 **212 - Acquisition, Traitement et Modélisation statistique des données physiologiques**  
 - 🔹 **211 - Mathématiques pour l’ingénieur**  
-- 🔹 **Stage de 4 semaines** [FISE]**
+- 🔹 **Stage de 4 semaines** [FISE]
 
   
 ### 🚀 **Deuxième année - ITS2 [M1]**
