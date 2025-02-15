@@ -5,7 +5,7 @@ Bienvenue sur ce dépôt GitHub ! 🎓 Ce repo a été créé pour regrouper et 
 ## 📖 Contenu du dépôt
 Ce dépôt est organisé par année et par matière pour faciliter l'accès aux ressources :
 
-### 🏆 **Première année - ITS1 [L3]**
+### 🏆 **Première année - ITS1**
 - 🔹 **Mathématiques** 
 - 🔹 **Programmation** 
 - 🔹 **Systèmes et Réseaux**
