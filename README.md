@@ -56,10 +56,11 @@ Ce dépôt est organisé par année et par matière pour faciliter l'accès aux 
 - 🔹 **321 - Découverte sociale et médicale du monde de la santé**  
 - 🔹 **312 - Anglais: Health, data, measurements, security / Finding an internship**  
 - 🔹 **311 - Stratégies d’entreprise**  
-- 🔹 **Stage de 16 semaines** [FISE]
 ### 📚 **Semestre 4**  
 - 🔹 **...** : ...
 - 🔹 **...** : ...
+- 🔹 **Stage de 16 semaines** [FISE]
+
 
 ### 🎯 **Troisième année - ITS3 [M2]**
 ### 📚 **Semestre 5**  
